@@ -1,0 +1,40 @@
+1. Write a C++ program to create a calculator for an arithmetic operator (+, -, *, /). The program
+should take two operands from user and performs the operation on those two operands
+depending upon the operator entered by user. Use a switch statement to select the operation.
+Finally, display the result.
+
+2.A Book shop maintains the inventory of books that are being sold at the shop. The list includes
+details such as title, author, publisher, price and available stock.
+Write a program in C++ which will have a class called books with suitable member functions
+for
+i. Add
+ii. Update
+iii. Search a book
+Use new operator in constructors to allocate memory space required and different types of
+constructor
+
+3.Implement a class Complex which represents the Complex Number data type. Implement the
+following operations:
+1. Constructor (including a default constructor which creates the complex number 0+0i).
+2. Overloaded operator+ to add two complex numbers.
+3. Overloaded operator* to multiply two complex numbers
+
+4.Write a C++ program to find the volume of a cube, cylinder and sphere by function overloading
+
+5.. Create a base class shape with two double type values and member functions to input the data
+and compute area( ) for calculating area of figure. Derive two classes’ triangle and rectangle.
+Make compute area( ) as a virtual function and redefine this function in the derived class to suit
+their requirements.
+ Write a program that accepts dimensions of triangle/rectangle and display calculated area.
+
+6.Write a program in C++ which includes the code for following operations:
+i. Declare and initialize pointer and array
+ii. Accept the elements of an array from user
+iii. Access each element of an array through pointer
+iv. Display the output
+
+7. Write a function template for selection sort that inputs, sorts and outputs an integer array and a
+float array.
+
+8.Write a C++ program that creates an output file, writes information into it, closes the file and
+open it again as an input file and read the information from the file.

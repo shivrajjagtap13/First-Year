@@ -1,0 +1,8 @@
+sfc /scannow 
+chkdsk /f /r
+cleanmgr
+powercfg /batteryreport
+
+bcdedit /set {bootmgr} path \EFI\ubuntu\grubx64.efi
+
+shutdown /s /t 7200
